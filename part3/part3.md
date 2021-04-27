@@ -3,6 +3,7 @@
 2 Input value of num1 and num2 are both strings. Therefore, when we add them up, it just append num2 to num1 becomes "12".
 
 **part3-question2:**
+
 Instead of "let result = num1 + num2", I have "let result = parseInt(num1) + parseInt(num2)"
 
 **part3-question3:**
