@@ -172,8 +172,11 @@ part1b-question18.js
 **part1b-question19:**
 
 1
+
 4
+
 3
+
 2
 
 
